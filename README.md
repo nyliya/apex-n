@@ -7,21 +7,21 @@
 - Limit break options
 - Compact, mini and dark version available
 
-[Download here](https://github.com/nettyneets/apex-n/releases)
+[Download here](https://github.com/nyliya/apex-n/releases)
 
 ## preview
-[nettyneets.github.io/apex-n](https://nettyneets.github.io/apex-n/)
+[nyliya.github.io/apex-n](https://nyliya.github.io/apex-n/)
 
 ###### DEFAULT
-![Screenshot](https://nettyneets.github.io/apex-n/images/preview.png)
+![Screenshot](https://nyliya.github.io/apex-n/images/preview.png)
 ###### CLASS COLORS
-![Screenshot](https://nettyneets.github.io/apex-n/images/classcolors.png)
+![Screenshot](https://nyliya.github.io/apex-n/images/classcolors.png)
 ###### COMPACT
-![Screenshot](https://nettyneets.github.io/apex-n/images/compact.png)
+![Screenshot](https://nyliya.github.io/apex-n/images/compact.png)
 ###### MINI
-![Screenshot](https://nettyneets.github.io/apex-n/images/mini.png)
+![Screenshot](https://nyliya.github.io/apex-n/images/mini.png)
 ###### MINI DARK
-![Screenshot](https://nettyneets.github.io/apex-n/images/minidark.png)
+![Screenshot](https://nyliya.github.io/apex-n/images/minidark.png)
 
 ## installation
 
@@ -106,4 +106,4 @@ Free for personal use. Non-commercial. No derivatives.
 
 You may not use the material for commercial purposes.  If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-Do not re-upload this project, or claim it as your own. If you wish to share it please link to its [original page](https://nettyneets.github.io/apex-n/).
+Do not re-upload this project, or claim it as your own. If you wish to share it please link to its [original page](https://nyliya.github.io/apex-n/).
